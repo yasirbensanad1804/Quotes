@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="quotes">Quotes</string>
+    <string name="life1">\"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle\".</string>
+    <string name="life2">\"Only those who risk going too far can possibly find out how far they can go\".</string>
+    <string name="life3">\"Live is either a daring adventure or it is nothing\".</string>
+    <string name="life4">\"We don\'t stop playing because we grow old, we grow old because we stop playing\".</string>
+    <string name="life5">\"enjoy live. this is not a dress rehearsal\"</string>
+    <string name="life6">\"The Chief danger in live is that you may take too many precautions\".</string>
+    <string name="life7">\"It is better to wear out than to rust out\"</string>
+    <string name="life8">\"Life like a mirror never gives back more than we put into it\".</string>
+    <string name="life9">\"and in the end it’s not the years in your life that count. it’s the life in your years\".</string>
+    <string name="life10">\"Life is a choice, choose well\".</string>
+</resources>
